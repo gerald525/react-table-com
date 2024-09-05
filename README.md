@@ -4,8 +4,8 @@ This project is no longer maintained. We will not be accepting pull requests, ad
 
 ## Alternatives
 
-- [react-virtualized](https://github.com/bvaughn/react-virtualized)
-- [fixed-data-table-2](https://github.com/schrodinger/fixed-data-table-2)
+- [react-virtualized](https://github.com/gerald525/react-virtualized)
+- [react-table-2](https://github.com/gerald525/react-table-2)
 
 
 * * *
