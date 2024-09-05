@@ -108,3 +108,5 @@ License
 -------
 
 `FixedDataTable` is [BSD-licensed](https://github.com/facebook/fixed-data-table/blob/master/LICENSE). We also provide an additional [patent grant](https://github.com/facebook/fixed-data-table/blob/master/PATENTS).
+
+# [Follow Gerald525](https://github.com/gerald525)
